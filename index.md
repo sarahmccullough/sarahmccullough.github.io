@@ -27,7 +27,7 @@ Etiam sollicitudin, ipsum eu pulvinar rutrum, tellus ipsum laoreet sapien, quis 
 
 * Cras sagittis.
 * Nunc nec neque.
-*Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
+* Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
 * Nullam tincidunt adipiscing enim.
 * Maecenas egestas arcu quis ligula mattis placerat.
 
